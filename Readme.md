@@ -1,5 +1,9 @@
 ## I am learning generative ai from PIAIC.
 
+i will build profession skill in git:
+
+Local Repository:
+
 - install the git on your windows
 - check the git version through command
 - git --version
@@ -24,3 +28,7 @@
 - add new command in previous code then we can check: git status you will show in red color, it is means u have add new something in ur code
 - when u add new code or something els: type command : git diff u will see new update in the code
 -
+
+# Remote Repository:
+
+1. Setting up GitHub account
